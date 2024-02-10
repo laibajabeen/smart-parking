@@ -1,0 +1,5 @@
+Car with license plate ABC123 parked successfully.
+Car with license plate XYZ789 parked successfully.
+Car with license plate OUYH757 parked successfully.
+Car with license plate AWAW09 parked successfully.
+Car with license plate XYZ789 removed from the parking lot.
